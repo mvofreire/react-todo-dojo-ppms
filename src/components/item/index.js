@@ -1,3 +1,5 @@
 import React from "react";
 
-export const Item = props => <div>item</div>;
+const Item = props => <div>item</div>;
+
+export { Item };
